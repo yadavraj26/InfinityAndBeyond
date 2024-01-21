@@ -28,11 +28,11 @@ Behaviour
 4) Flee from the sun if near
 
 The agent uses a combined method of utility and Behaviour trees. The methods or states are
-Destroy - DestroyPlanetBehaviour
-Attack - AttackBehaviour
-Wander - WanderBehaviour
-SoakinPlanet - Soak in Planet behaviour
-Flee- FleeBehaviour
+Destroy - DestroyPlanetBehaviour()
+Attack - AttackBehaviour()
+Wander - WanderBehaviour()
+SoakinPlanet - Soak in Planet behaviour()
+Flee- FleeBehaviour()
 
 # Agent 3 - Terran.cs
 behaviour
@@ -41,7 +41,7 @@ behaviour
 3) Gather firepower from the planet also heal and develop the planet by shooting bullets of development.
 The agent uses a combined method of utility and Behaviour trees. The methods or states are
 
-Wander - WanderBehaviour
-Attack - AttackBehaviour
-Flee -  FleeBehaviour
-HealPlanetBehaviour - HealPlanetBehaviour
+Wander - WanderBehaviour()
+Attack - AttackBehaviour()
+Flee -  FleeBehaviour()
+HealPlanet - HealPlanetBehaviour()
