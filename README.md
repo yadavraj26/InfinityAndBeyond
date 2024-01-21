@@ -3,6 +3,8 @@ Infinity and Beyond is a game simulation project to explore Procedural Content G
 
 [![Demo](https://img.youtube.com/vi/-8xOKD-uKc4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-8xOKD-uKc4)
 
+Protoss- Blue, Terran- Green, Zerg- Red
+
 # Level Generator - Generator.cs
 The level generator works on the cellular automata concept.
 The rules followed for the cellular automata are if surrounding blacks < 4 - spawn white or if >4 - spawn black, else stays the same.
