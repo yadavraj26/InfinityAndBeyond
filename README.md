@@ -1,0 +1,2 @@
+# Infinity and Beyond
+Infinity and Beyond is a game simulation project to explore Procedural Content Generation and Interactive Agents. Cellular Automata, Behaviour Tree, Utility based Agents have been explored. Game simulation takes the theme of Starcraft. Three Races Protoss, Terran and Zerg battle in a galaxy filled with asteroid feilds. The level is generated using Cellular Automata, and the starships are cotrolled by Utility based Agents making use Behaviour Tree.
