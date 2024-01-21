@@ -1,6 +1,8 @@
 # Infinity and Beyond
 Infinity and Beyond is a game simulation project to explore Procedural Content Generation and Interactive Agents. Cellular Automata, Behaviour Tree, and Utility-based Agents have been explored. The game simulation takes the theme of Starcraft. Three Races Protoss, Terran and Zerg battle in a galaxy filled with asteroid fields. The level is generated using Cellular Automata, and the starships are controlled by Utility-based Agents making use Behaviour Tree.
 
+[![Demo](https://img.youtube.com/vi/-8xOKD-uKc4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-8xOKD-uKc4)
+
 # Level Generator - Generator.cs
 The level generator works on the cellular automata concept.
 The rules followed for the cellular automata are if surrounding blacks < 4 - spawn white or if >4 - spawn black, else stays the same.
